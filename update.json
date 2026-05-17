@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.1",
-  "downloadUrl": "https://github.com/axelfxxx/AlexInventur/releases/download/v1.0.1/AlexInventur_Setup_1.0.1.exe",
-  "publishedAt": "2026-05-13T18:00:00",
-  "releaseNotes": "PDF-Export 2.0: professioneller Inventurbericht mit Titelbereich, Lagerort-Zusammenfassung, mehrseitiger Tabelle, Seitenzahlen und Geräteblatt-Export-Service."
+  "version": "1.0.3",
+  "downloadUrl": "https://github.com/axelfxxx/AlexInventur/releases/download/v1.0.3-beta/AlexInventur_v1.0.3_win-x64.zip",
+  "changelog": "Progress-System, Netzwerk-Scanner verbessert, AutoUpdate repariert"
 }
+
